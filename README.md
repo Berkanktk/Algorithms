@@ -40,7 +40,7 @@ The traditional 2-way partitioning quicksort exhibits its worse-case O(n2) behav
 
 Shell sort also adapts to few unique keys, though I do not know its time complexity in this case.
 
-## Contains
+## This repository contains
 ### Sorting
 **Bubble sort**  
 Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.

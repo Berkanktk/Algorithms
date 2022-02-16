@@ -13,13 +13,12 @@ Slowest = Longest sorting time
 | Reversed |  | Slowest |  | Winner |  |  |  |  |
 | Few Unique |  | Slowest |  |  |  |  |  | Winner |
 
-Explanations:
+Source: [Link](https://www.toptal.com/developers/sorting-algorithms)
+
 ### Random
 A random initial order is often used to evaluate sorting algorithms in order to elucidate the “typical” case and to facilitate mathematical analysis. For some applications, however, this does not represent the typical case, so conclusions drawn here do not generalize.
 
 Here we see the vast difference in speed between the O(n2) elementary sorting algorithms (insert, selection, bubble) and the more advanced algorithms.
-
-Source: [Link](https://www.toptal.com/developers/sorting-algorithms)
 
 ### Nearly sorted
 Sorting nearly sorted data is quite common in practice. Some observations:
